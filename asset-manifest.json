@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Fyesinho/react-login-test/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Fyesinho/react-login-test/static/js/main.3ace088b.chunk.js",
-    "main.js.map": "/Fyesinho/react-login-test/static/js/main.3ace088b.chunk.js.map",
-    "runtime-main.js": "/Fyesinho/react-login-test/static/js/runtime-main.acb39006.js",
-    "runtime-main.js.map": "/Fyesinho/react-login-test/static/js/runtime-main.acb39006.js.map",
-    "static/js/2.f2d309be.chunk.js": "/Fyesinho/react-login-test/static/js/2.f2d309be.chunk.js",
-    "static/js/2.f2d309be.chunk.js.map": "/Fyesinho/react-login-test/static/js/2.f2d309be.chunk.js.map",
-    "static/js/3.59fefb9e.chunk.js": "/Fyesinho/react-login-test/static/js/3.59fefb9e.chunk.js",
-    "static/js/3.59fefb9e.chunk.js.map": "/Fyesinho/react-login-test/static/js/3.59fefb9e.chunk.js.map",
-    "index.html": "/Fyesinho/react-login-test/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Fyesinho/react-login-test/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f2d309be.chunk.js.LICENSE.txt": "/Fyesinho/react-login-test/static/js/2.f2d309be.chunk.js.LICENSE.txt"
+    "main.css": "/react-login-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-login-test/static/js/main.3ace088b.chunk.js",
+    "main.js.map": "/react-login-test/static/js/main.3ace088b.chunk.js.map",
+    "runtime-main.js": "/react-login-test/static/js/runtime-main.11a52ae0.js",
+    "runtime-main.js.map": "/react-login-test/static/js/runtime-main.11a52ae0.js.map",
+    "static/js/2.f2d309be.chunk.js": "/react-login-test/static/js/2.f2d309be.chunk.js",
+    "static/js/2.f2d309be.chunk.js.map": "/react-login-test/static/js/2.f2d309be.chunk.js.map",
+    "static/js/3.59fefb9e.chunk.js": "/react-login-test/static/js/3.59fefb9e.chunk.js",
+    "static/js/3.59fefb9e.chunk.js.map": "/react-login-test/static/js/3.59fefb9e.chunk.js.map",
+    "index.html": "/react-login-test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-login-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f2d309be.chunk.js.LICENSE.txt": "/react-login-test/static/js/2.f2d309be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.acb39006.js",
+    "static/js/runtime-main.11a52ae0.js",
     "static/js/2.f2d309be.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.3ace088b.chunk.js"
